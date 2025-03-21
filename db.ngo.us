@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; puresys
+; Submitted by CLAM <admin@puresys.net>
+puresys	86400	IN	NS	bart.ns.cloudflare.com.
+puresys	86400	IN	NS	meilani.ns.cloudflare.com.
+
 ; ========== END ORGANIZATIONS ================
